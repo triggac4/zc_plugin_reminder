@@ -141,7 +141,7 @@ const ModalForm = ({ closeModal }) => {
 			</div>
 			<div className="dtw-flex dtw-justify-end">
 				<button
-					className="w-16 dtw-h-10  dtw-text-sm dtw-text-brand-primary dtw-font-semibold"
+					className="dtw-w-16 dtw-h-10  dtw-text-sm dtw-text-brand-primary dtw-font-semibold"
 					onClick={closeModal}
 				>
 					Cancel
